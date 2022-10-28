@@ -1,8 +1,8 @@
-// Java Program to Illustrate Record Class
+
 
 package College;
 
-// Class
+// Class Record
 public class Record {
 
     // Instance variables
